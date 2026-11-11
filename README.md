@@ -1,16 +1,48 @@
-## Hi there 👋
-
-<!--
-**FranciscoN07/FranciscoN07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# FranciscoN07
+## Francisco Narvaez
+**Computer Science student at UIC · Frontend developer · Game dev enthusiast**
+ 
+[About](#about-me) · [Featured Projects](#featured-projects) · [Experience](#experience) · [Tech Stack](#tech-stack) · [Contact](#find-me-around-the-web)
+ 
+---
+ 
+## About Me
+ 
+I'm a sophomore at the University of Illinois Chicago pursuing a B.S. in Computer Science with a minor in Mathematics (expected December 2028). My interest in computer science started with video games: experimenting with them led me to teach myself Unity, and that curiosity turned into a love for programming. As a Coding Instructor at Code Ninjas, I helped students build over 100 game projects, and I've since expanded into web development, where I enjoy building clean, user-friendly frontends and working with teams. I'm looking for software engineering and frontend development opportunities where I can apply my skills, collaborate with others, and keep growing as a developer.
+ 
+---
+ 
+## Featured Projects
+ 
+### 🌱 EcoScanner – Chrome Extension
+**2nd Place at HackFTW 2023**
+A Chrome extension that helps shoppers identify environmentally friendly products while browsing online. I led the API integration and built frontend functionality with my team during the hackathon.
+`JavaScript` `HTML` `CSS` `Chrome Extension APIs` `Webpack`
+ 
+### 🌐 SHPE Website – Frontend Developer & Webmaster
+I build and refine frontend components for the SHPE organization's website, improving page layouts, navigation, and consistency while collaborating with up to 13 other developers using Git.
+ 
+---
+ 
+## Experience
+ 
+- **Frontend Developer & Webmaster, SHPE Website** (Sep 2026 – Present): collaborating with up to 13 developers on a shared codebase
+- **Web Development Intern, Metea Valley High School** (Dec 2023 – May 2024): built faculty calendar and appointment scheduling features with HTML, CSS, and JavaScript, gathering feedback from teachers, students, and administrators
+- **Coding Instructor, Code Ninjas** (Aug 2023 – May 2024): taught C++ and Python fundamentals and mentored students through 100+ Unity game projects, including more than 30 published games
+---
+ 
+## Tech Stack
+ 
+**Languages:** Java, Python, C/C++, JavaScript, SQL (PostgreSQL), HTML/CSS, R
+**Frameworks & Technologies:** React, Node.js, Flask, FastAPI, Unity
+**Tools:** Git, Docker, Webpack, Google Cloud Platform, VS Code, IntelliJ IDEA
+ 
+**Currently studying:** Data Structures · Machine Organization · Calculus III
+ 
+---
+ 
+## Find Me Around the Web 🌎
+ 
+- 📧 Email: [fjnjr1@gmail.com](mailto:fjnjr1@gmail.com)
+- 💼 LinkedIn: [View my linkedIN](www.linkedin.com/in/francisco-narvaez07)
+- 📄 Resume: [View my resume](Francisco_Narvaez_CS_Resume(1))
